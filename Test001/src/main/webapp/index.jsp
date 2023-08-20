@@ -8,10 +8,7 @@
 </head>
 <body>
 
-Hello World Test001 master ~~~~ hmmm 
-
-
-TEST_REPO_002 - update 0002
+Hello World master
 
 </body>
 </html>
